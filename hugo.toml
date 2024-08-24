@@ -13,3 +13,27 @@ logo = "images/logo.png"
 home = "Home"
 # Meta data
 description = "This is meta description"
+
+[params.navigation]
+    #other stuff
+    logo = "images/logo.png"
+
+
+[menus]
+  [[menus.main]]
+    name = 'Home'
+    pageRef = '/'
+    weight = 10
+  [[menus.main]]
+    name = 'Technology'
+    pageRef = '/tech'
+    weight = 20
+  [[menus.main]]
+    name = 'Comic'
+    pageRef = '/comic'
+    weight = 30
+  [[menus.main]]
+    name = 'About'
+    pageRef = '/about'
+    weight = 40
+  

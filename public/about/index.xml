@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Panchatantras!</title>
+    <link>http://localhost:1313/about/</link>
+    <description>Recent content in Abouts on Panchatantras!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 29 Jun 2018 06:19:29 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/about/</link>
+      <pubDate>Fri, 29 Jun 2018 06:19:29 +0000</pubDate>
+      <guid>http://localhost:1313/about/about/</guid>
+      <description>👋 Hi, there! I&amp;rsquo;m Girish, a Lead Engineer at Sky. {style=&amp;ldquo;font-size: 1.2rem; color: #FFB76B;}</description>
+    </item>
+  </channel>
+</rss>
