@@ -2,3 +2,14 @@ baseURL = 'https://panchatantras.com/'
 languageCode = 'en-us'
 title = 'Panchatantras!'
 theme = 'ananke'
+# post pagination
+paginate = 10 # see https://gohugo.io/extras/pagination/
+# post excerpt
+summaryLength = 20 # see https://gohugo.io/content-management/excerpts/
+
+#################### default parameters ################################
+[params]
+logo = "images/logo.png"
+home = "Home"
+# Meta data
+description = "This is meta description"
