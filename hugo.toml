@@ -1,0 +1,4 @@
+baseURL = 'https://panchatantras.com/'
+languageCode = 'en-us'
+title = 'Panchatantras!'
+theme = 'ananke'
