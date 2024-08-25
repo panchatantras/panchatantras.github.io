@@ -39,3 +39,7 @@ enableRobotsTXT = true
 [[params.ananke_socials]]
 name = "twitter"
 url = "https://twitter.com/girishtripurana"
+
+[[params.ananke_socials]]
+name = "linkedIn"
+url = "https://www.linkedin.com/in/girish-tripurana-1351b231/"
