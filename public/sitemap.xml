@@ -6,7 +6,15 @@
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
+    <loc>http://localhost:1313/posts/disaster_recovery/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/high_scope/</loc>
+  </url><url>
     <loc>http://localhost:1313/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+  </url><url>
+    <loc>http://localhost:1313/posts/production_quality/</loc>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
   </url>

@@ -1,2 +1,3 @@
 ## Hugo
 .hugo_build.lock
+.DS_store
