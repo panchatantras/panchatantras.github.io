@@ -38,7 +38,7 @@ name = "twitter"
 url = "https://twitter.com/girishtripurana"
 
 [[params.ananke_socials]]
-name = "linkedIn"
+name = "linkedin"
 url = "https://www.linkedin.com/in/girish-tripurana-1351b231/"
 
 [services.disqus]
